@@ -1,3 +1,5 @@
+<img width="1254" height="643" alt="Screenshot 2026-10-28 at 3 23 47 AM" src="https://github.com/user-attachments/assets/60f6f7dd-64b1-4036-bf31-66cf9ab09ef6" />
+
 # Ledger Reconciliation
 
 A single-file web app that reconciles a transaction ledger against a daily bank statement. It distinguishes a newly introduced discrepancy from one that's simply carried forward from an earlier day, so you can tell at a glance where a problem actually started.
@@ -25,6 +27,9 @@ To fix that, the app separately compares each day's change in bank balance to th
 ## Design
 
 Styled around a "ledger paper" motif — a pale green ruled background and red-ink error highlighting. Typography pairs a slab serif for headers with a monospace face for all numeric/tabular data, so figures line up the way they would in an actual ledger.
+
+<img width="968" height="399" alt="Screenshot 2026-10-28 at 3 25 16 AM" src="https://github.com/user-attachments/assets/312127e5-a7f3-4165-a0e9-f1959a7acb91" />
+<img width="968" height="462" alt="Screenshot 2026-10-28 at 3 26 07 AM" src="https://github.com/user-attachments/assets/1e2c90a2-8ce9-4811-a58e-ab5705c4cb5f" />
 
 ## Tech
 
